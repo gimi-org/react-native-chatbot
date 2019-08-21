@@ -67,7 +67,6 @@
   },
   "peerDependencies": {
     "react": ">= 0.14.0 < 17.0.0-0",
-    "react-native": ">= 0.45.0",
-    "styled-components": ">= 2.0.0"
+    "react-native": ">= 0.45.0"
   }
 }
